@@ -39,6 +39,7 @@ test nr2
 
 test nr 67
 last test
+test zmiana tokenu
 
     return 0;
 }
