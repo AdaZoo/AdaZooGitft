@@ -38,6 +38,7 @@ TEST github
 test nr2
 
 test nr 67
+last test
 
     return 0;
 }
